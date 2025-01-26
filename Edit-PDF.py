@@ -2,19 +2,6 @@
 Program : PDF Separate and Merge Application. This app can merge two files,
           extract a page from file and split file into separate pages. The
           user must enter the absolute path of the file.
-
-Author one name: Badr Eldeen Khaled Khareeb
-Author one ID: 20230086
-
-Author two: Samir Sherif Shokry Abd elhady
-Author two ID: 20230178
-
-Author three: Mohamed Bakry Mohamed yassin
-Author three ID: 20230325
-
-Version: 3.0
-
-Date: 29/2/2024
 """
 
 # Call the PyPDF2 library that we will need to build this application
